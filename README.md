@@ -1,5 +1,4 @@
-# Bike-Sales-Analysis_Excel-Project
-Bike Sales Excel Analysis
+# Retail Pricing Analysis using SQL
 
 # Overview
 
