@@ -1,4 +1,4 @@
-# Retail Pricing Analysis using SQL
+# Sales-Performance-Analysis-using-Excel
 
 # Overview
 
